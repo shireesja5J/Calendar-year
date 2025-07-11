@@ -1,4 +1,4 @@
-Description:
+
 This project is a web-based Indian Holiday Calendar application that displays months and highlights national holidays, festivals, weekends, and the current day. It features a dual-pane layout with a dynamic calendar view and an events panel where users can view events associated with selected dates.
 
 🎯 Key Features:
@@ -42,4 +42,9 @@ HTML5 – Page structure and layout.
 CSS3 – Styling, layout, Flexbox grid, and responsive design.
 
 JavaScript (Vanilla) – Dynamic calendar generation, date calculation, and event handling.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/da057d20-47d5-4344-b21b-7e63c656998a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/58d638c3-b925-48a3-aaad-d245f8d44e2d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1fb00141-92c4-4d71-b43f-e3e0c36f7072" />
+
+
 
