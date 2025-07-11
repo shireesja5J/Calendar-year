@@ -44,4 +44,15 @@ CSS3 – Styling, layout, Flexbox grid, and responsive design.
 
 JavaScript (Vanilla) – Dynamic calendar generation, date calculation, and event handling.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c64f88ff-1b50-48fa-aae0-f0ad3f8c1572" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1f8d754c-39ed-499d-9b9f-c760f040c5bd" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d00cec9d-e207-4b2b-aded-88fc9b598132" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8b6e304a-23cb-4aa0-b98e-2331ebf92d65" />
+
+
+
+
 
