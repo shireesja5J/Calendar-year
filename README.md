@@ -42,11 +42,20 @@ HTML5 – Page structure and layout.
 CSS3 – Styling, layout, Flexbox grid, and responsive design.
 
 JavaScript (Vanilla) – Dynamic calendar generation, date calculation, and event handling.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/da057d20-47d5-4344-b21b-7e63c656998a" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/58d638c3-b925-48a3-aaad-d245f8d44e2d" />
+Result:
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1fb00141-92c4-4d71-b43f-e3e0c36f7072" />
+![WhatsApp Image 2025-07-11 at 14 02 09_cfbd1b70](https://github.com/user-attachments/assets/f74c2a9f-efc2-4a24-b282-f267c5a2569a)
+
+![WhatsApp Image 2025-07-11 at 14 01 24_eaa25610](https://github.com/user-attachments/assets/9d888f83-83cf-45f9-a626-e60b5945c9ae)
+
+![WhatsApp Image 2025-07-11 at 14 00 46_79f85e7e](https://github.com/user-attachments/assets/422c6bb6-54c3-4348-a345-00e355c04e4e)
+
+![WhatsApp Image 2025-07-11 at 14 00 12_fd860627](https://github.com/user-attachments/assets/3ee648a3-24b9-40b2-b446-d8e4e5c36769)
+
+
+
+
 conclusion:
 
 The Indian Holidays Calendar is a simple yet effective web-based tool designed to visually represent important Indian festivals, national holidays, weekends, and the current date in an intuitive calendar layout. By combining HTML, CSS, and JavaScript, this project demonstrates how dynamic data (like dates and events) can be visually organized to enhance user interaction and usability.
